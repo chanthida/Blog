@@ -74,7 +74,8 @@
 
                 <div class="links">
                     <a href="/page">Post</a>
-                    <a href="/bot">Bot</a>                  
+                    <a href="/bot">Bot</a>    
+                    <a href="/bot">3</a>                   
                 </div>
             </div>
         </div>
